@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# Generative-Art-Project
-![Glitch Art Engine Demo](images/demo.png)
-=======
 # Glitch Art Engine
+
+![Glitch Art Engine Demo](images/demo.png)
 
 A desktop application built with Java and JavaFX that transforms any portrait photo into a glitch art piece inspired by physical collage techniques.
 
@@ -35,4 +33,3 @@ The strip size is adjustable via a slider in the UI, giving different visual res
 1. Install JDK 21+ and JavaFX SDK
 2. Clone the repository
 3. Run `./run.sh`
->>>>>>> 1b9a4a7 (Glitch Art Engine)
