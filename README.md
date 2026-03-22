@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Generative-Art-Project
 ![Glitch Art Engine Demo](ScreenShots/demo.png)
 =======
