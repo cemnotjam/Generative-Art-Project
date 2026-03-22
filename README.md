@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 # Generative-Art-Project
-![Glitch Art Engine Demo](ScreenShots/demo.png)
+![Glitch Art Engine Demo](images/demo.png)
 =======
 # Glitch Art Engine
 
